@@ -1,0 +1,6 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5\Ficha5Ex6\bin\Debug\Ficha5Ex6.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5\Ficha5Ex6\bin\Debug\Ficha5Ex6.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5\Ficha5Ex6\bin\Debug\Ficha5Ex6.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5\Ficha5Ex6\obj\Debug\Ficha5Ex6.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5\Ficha5Ex6\obj\Debug\Ficha5Ex6.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5\Ficha5Ex6\obj\Debug\Ficha5Ex6.pdb

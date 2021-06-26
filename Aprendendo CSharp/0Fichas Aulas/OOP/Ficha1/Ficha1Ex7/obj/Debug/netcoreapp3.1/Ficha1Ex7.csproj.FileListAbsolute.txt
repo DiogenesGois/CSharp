@@ -1,0 +1,30 @@
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.exe
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.deps.json
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.runtimeconfig.json
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.runtimeconfig.dev.json
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.dll
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.pdb
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.Form1.resources
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.csproj.GenerateResource.cache
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.AssemblyInfoInputs.cache
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.AssemblyInfo.cs
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.dll
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.pdb
+C:\Users\dioge\CET60\Programacao orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.genruntimeconfig.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.exe
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.deps.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.runtimeconfig.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.runtimeconfig.dev.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\bin\Debug\netcoreapp3.1\Ficha1Ex7.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.Form1.resources
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.csproj.GenerateResource.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.AssemblyInfoInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.AssemblyInfo.cs
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha1\Ficha1Ex7\obj\Debug\netcoreapp3.1\Ficha1Ex7.genruntimeconfig.cache

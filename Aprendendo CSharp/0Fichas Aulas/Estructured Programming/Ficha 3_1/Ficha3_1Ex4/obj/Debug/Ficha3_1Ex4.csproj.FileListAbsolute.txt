@@ -1,0 +1,14 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\bin\Debug\Ficha3_1Ex4.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\bin\Debug\Ficha3_1Ex4.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\bin\Debug\Ficha3_1Ex4.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.csprojAssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\bin\Debug\Ficha3_1Ex4.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\bin\Debug\Ficha3_1Ex4.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\bin\Debug\Ficha3_1Ex4.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.csprojAssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex4\obj\Debug\Ficha3_1Ex4.pdb

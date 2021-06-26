@@ -1,0 +1,14 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3_1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\bin\Debug\ConsoleApp2.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\bin\Debug\ConsoleApp2.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\bin\Debug\ConsoleApp2.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\obj\Debug\ConsoleApp2.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 4\Ficha4Ex1\obj\Debug\ConsoleApp2.pdb

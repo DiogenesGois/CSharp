@@ -1,0 +1,7 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\bin\Debug\Ficha7Ex2.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\bin\Debug\Ficha7Ex2.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\bin\Debug\Ficha7Ex2.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\obj\Debug\Ficha7Ex2.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\obj\Debug\Ficha7Ex2.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\obj\Debug\Ficha7Ex2.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 7\Ficha7Ex2\obj\Debug\Ficha7Ex2.pdb

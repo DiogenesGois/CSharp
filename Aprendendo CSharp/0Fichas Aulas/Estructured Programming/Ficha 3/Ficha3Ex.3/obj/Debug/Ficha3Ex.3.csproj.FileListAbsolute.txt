@@ -1,0 +1,6 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3Ex.3\bin\Debug\Ficha3Ex.3.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3Ex.3\bin\Debug\Ficha3Ex.3.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3Ex.3\bin\Debug\Ficha3Ex.3.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3Ex.3\obj\Debug\Ficha3Ex.3.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3Ex.3\obj\Debug\Ficha3Ex.3.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha3Ex.3\obj\Debug\Ficha3Ex.3.pdb

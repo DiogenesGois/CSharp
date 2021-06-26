@@ -1,0 +1,14 @@
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\bin\Debug\Ficha3_1Ex.1.exe.config
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\bin\Debug\Ficha3_1Ex.1.exe
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\bin\Debug\Ficha3_1Ex.1.pdb
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.csprojAssemblyReference.cache
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.csproj.CoreCompileInputs.cache
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.exe
+C:\Users\dioge\source\repos\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\bin\Debug\Ficha3_1Ex.1.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\bin\Debug\Ficha3_1Ex.1.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\bin\Debug\Ficha3_1Ex.1.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.csprojAssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 3_1\Ficha3_1Ex.1\obj\Debug\Ficha3_1Ex.1.pdb

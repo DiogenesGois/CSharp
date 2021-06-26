@@ -1,0 +1,7 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\bin\Debug\Ficha6Ex4.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\bin\Debug\Ficha6Ex4.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\bin\Debug\Ficha6Ex4.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\obj\Debug\Ficha6Ex4.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\obj\Debug\Ficha6Ex4.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\obj\Debug\Ficha6Ex4.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 6\Ficha6Ex4\obj\Debug\Ficha6Ex4.pdb

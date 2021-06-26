@@ -1,0 +1,15 @@
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

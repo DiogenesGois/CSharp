@@ -1,0 +1,6 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 8\Ficha8Ex3\bin\Debug\Ficha8Ex3.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 8\Ficha8Ex3\bin\Debug\Ficha8Ex3.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 8\Ficha8Ex3\bin\Debug\Ficha8Ex3.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 8\Ficha8Ex3\obj\Debug\Ficha8Ex3.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 8\Ficha8Ex3\obj\Debug\Ficha8Ex3.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 8\Ficha8Ex3\obj\Debug\Ficha8Ex3.pdb

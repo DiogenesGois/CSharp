@@ -1,0 +1,7 @@
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\bin\Debug\Ficha5_1Ex1.exe.config
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\bin\Debug\Ficha5_1Ex1.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\bin\Debug\Ficha5_1Ex1.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\obj\Debug\Ficha5_1Ex1.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\obj\Debug\Ficha5_1Ex1.exe
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\obj\Debug\Ficha5_1Ex1.pdb
+C:\Users\dioge\CET60\Programação de computadores - estruturada\Projetos\Ficha 5_1\Ficha5_1Ex1\obj\Debug\Ficha5_1Ex1.csproj.AssemblyReference.cache

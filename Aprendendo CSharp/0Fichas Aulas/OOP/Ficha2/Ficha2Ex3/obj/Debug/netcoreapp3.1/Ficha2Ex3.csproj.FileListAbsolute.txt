@@ -1,0 +1,14 @@
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.Form1.resources
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.csproj.GenerateResource.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.AssemblyInfoInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.AssemblyInfo.cs
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\bin\Debug\netcoreapp3.1\Ficha2Ex3.exe
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\bin\Debug\netcoreapp3.1\Ficha2Ex3.deps.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\bin\Debug\netcoreapp3.1\Ficha2Ex3.runtimeconfig.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\bin\Debug\netcoreapp3.1\Ficha2Ex3.runtimeconfig.dev.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\bin\Debug\netcoreapp3.1\Ficha2Ex3.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\bin\Debug\netcoreapp3.1\Ficha2Ex3.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha2\Ficha2Ex3\obj\Debug\netcoreapp3.1\Ficha2Ex3.genruntimeconfig.cache
