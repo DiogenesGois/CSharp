@@ -1,0 +1,6 @@
+C:\Users\dioge\Develop\Aprendendo CSharp\EnumSwitch_Menu\bin\Debug\EnumSwitch_Menu.exe.config
+C:\Users\dioge\Develop\Aprendendo CSharp\EnumSwitch_Menu\bin\Debug\EnumSwitch_Menu.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\EnumSwitch_Menu\bin\Debug\EnumSwitch_Menu.pdb
+C:\Users\dioge\Develop\Aprendendo CSharp\EnumSwitch_Menu\obj\Debug\EnumSwitch_Menu.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\EnumSwitch_Menu\obj\Debug\EnumSwitch_Menu.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\EnumSwitch_Menu\obj\Debug\EnumSwitch_Menu.pdb

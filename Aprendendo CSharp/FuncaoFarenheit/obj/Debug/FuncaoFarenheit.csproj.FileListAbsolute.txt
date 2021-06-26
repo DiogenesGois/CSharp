@@ -1,0 +1,7 @@
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\bin\Debug\FuncaoFarenheit.exe.config
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\bin\Debug\FuncaoFarenheit.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\bin\Debug\FuncaoFarenheit.pdb
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\obj\Debug\FuncaoFarenheit.csprojAssemblyReference.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\obj\Debug\FuncaoFarenheit.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\obj\Debug\FuncaoFarenheit.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\FuncaoFarenheit\obj\Debug\FuncaoFarenheit.pdb

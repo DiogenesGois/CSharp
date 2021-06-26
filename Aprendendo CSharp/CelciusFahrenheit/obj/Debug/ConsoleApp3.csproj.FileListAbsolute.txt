@@ -1,0 +1,14 @@
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\bin\Debug\ConsoleApp3.exe.config
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\bin\Debug\ConsoleApp3.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\bin\Debug\ConsoleApp3.pdb
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\obj\Debug\ConsoleApp3.exe
+C:\Users\dioge\Develop\Aprendendo CSharp\CelciusFahrenheit\obj\Debug\ConsoleApp3.pdb
