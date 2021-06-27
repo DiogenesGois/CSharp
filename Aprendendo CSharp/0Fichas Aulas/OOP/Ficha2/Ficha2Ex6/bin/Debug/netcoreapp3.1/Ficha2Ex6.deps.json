@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ficha2Ex6/1.0.0": {
+        "runtime": {
+          "Ficha2Ex6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ficha2Ex6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
