@@ -1,0 +1,15 @@
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\bin\Debug\netcoreapp3.1\Ficha3Ex2.exe
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\bin\Debug\netcoreapp3.1\Ficha3Ex2.deps.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\bin\Debug\netcoreapp3.1\Ficha3Ex2.runtimeconfig.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\bin\Debug\netcoreapp3.1\Ficha3Ex2.runtimeconfig.dev.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\bin\Debug\netcoreapp3.1\Ficha3Ex2.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\bin\Debug\netcoreapp3.1\Ficha3Ex2.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.Form1.resources
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.csproj.GenerateResource.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.AssemblyInfoInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.AssemblyInfo.cs
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha3\Ficha3Ex2\obj\Debug\netcoreapp3.1\Ficha3Ex2.genruntimeconfig.cache
