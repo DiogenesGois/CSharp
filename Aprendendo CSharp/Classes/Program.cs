@@ -8,9 +8,13 @@ namespace Classes {
 
     public class Jogador {
 
-        public int energia;
-        public bool vivo;
-        public string name;
+        private int energia;
+        private bool vivo;
+        private string name;
+
+        public int Energia { get => energia; set => energia = value; }
+        public bool Vivo { get => vivo; set => vivo = value; }
+        public string Name { get => name; set => name = value; }
 
         public Jogador() {
             energia = 100;
