@@ -1,0 +1,12 @@
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\bin\Debug\Pokemon.exe.config
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\bin\Debug\Pokemon.exe
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\bin\Debug\Pokemon.pdb
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.csproj.AssemblyReference.cache
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.Form1.resources
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.exe
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.pdb
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.Pokemon.resources
+A:\Develop\CSharp\Aprendendo CSharp\0Fichas Aulas\OOP\Pokemon\obj\Debug\Pokemon.Consulta.resources

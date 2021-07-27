@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dioge\\CET60\\Programacao de computadores - orientada a objetos\\Projetos\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj": {}
+    "A:\\Develop\\CSharp\\Aprendendo CSharp\\0Fichas Aulas\\Windows forms\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dioge\\CET60\\Programacao de computadores - orientada a objetos\\Projetos\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj": {
+    "A:\\Develop\\CSharp\\Aprendendo CSharp\\0Fichas Aulas\\Windows forms\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dioge\\CET60\\Programacao de computadores - orientada a objetos\\Projetos\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj",
+        "projectUniqueName": "A:\\Develop\\CSharp\\Aprendendo CSharp\\0Fichas Aulas\\Windows forms\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj",
         "projectName": "Ficha3Ex5",
-        "projectPath": "C:\\Users\\dioge\\CET60\\Programacao de computadores - orientada a objetos\\Projetos\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj",
+        "projectPath": "A:\\Develop\\CSharp\\Aprendendo CSharp\\0Fichas Aulas\\Windows forms\\Ficha3\\Ficha3Ex5\\Ficha3Ex5.csproj",
         "packagesPath": "C:\\Users\\dioge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dioge\\CET60\\Programacao de computadores - orientada a objetos\\Projetos\\Ficha3\\Ficha3Ex5\\obj\\",
+        "outputPath": "A:\\Develop\\CSharp\\Aprendendo CSharp\\0Fichas Aulas\\Windows forms\\Ficha3\\Ficha3Ex5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

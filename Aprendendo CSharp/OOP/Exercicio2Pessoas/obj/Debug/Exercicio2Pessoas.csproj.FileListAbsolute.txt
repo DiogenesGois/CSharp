@@ -1,0 +1,10 @@
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\bin\Debug\Exercicio2Pessoas.exe.config
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\bin\Debug\Exercicio2Pessoas.exe
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\bin\Debug\Exercicio2Pessoas.pdb
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.csproj.AssemblyReference.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.Form1.resources
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.Properties.Resources.resources
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.csproj.GenerateResource.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.csproj.CoreCompileInputs.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.exe
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Exercicio2Pessoas\obj\Debug\Exercicio2Pessoas.pdb

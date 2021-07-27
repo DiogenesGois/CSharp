@@ -1,0 +1,16 @@
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\bin\Debug\netcoreapp3.1\Ficha5Ex1.exe
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\bin\Debug\netcoreapp3.1\Ficha5Ex1.deps.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\bin\Debug\netcoreapp3.1\Ficha5Ex1.runtimeconfig.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\bin\Debug\netcoreapp3.1\Ficha5Ex1.runtimeconfig.dev.json
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\bin\Debug\netcoreapp3.1\Ficha5Ex1.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\bin\Debug\netcoreapp3.1\Ficha5Ex1.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.csproj.AssemblyReference.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.Form1.resources
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.Properties.Resources.resources
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.csproj.GenerateResource.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.AssemblyInfoInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.AssemblyInfo.cs
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.csproj.CoreCompileInputs.cache
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.dll
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.pdb
+C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\Ficha5\Ficha5Ex1\obj\Debug\netcoreapp3.1\Ficha5Ex1.genruntimeconfig.cache

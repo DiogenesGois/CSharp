@@ -1,0 +1,16 @@
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\bin\Debug\netcoreapp3.1\Ex1Alunos.exe
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\bin\Debug\netcoreapp3.1\Ex1Alunos.deps.json
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\bin\Debug\netcoreapp3.1\Ex1Alunos.runtimeconfig.json
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\bin\Debug\netcoreapp3.1\Ex1Alunos.runtimeconfig.dev.json
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\bin\Debug\netcoreapp3.1\Ex1Alunos.dll
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\bin\Debug\netcoreapp3.1\Ex1Alunos.pdb
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.csproj.AssemblyReference.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.Form1.resources
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.Registo.resources
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.csproj.GenerateResource.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.AssemblyInfoInputs.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.AssemblyInfo.cs
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.csproj.CoreCompileInputs.cache
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.dll
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.pdb
+A:\Develop\CSharp\Aprendendo CSharp\OOP\Ex1Alunos\obj\Debug\netcoreapp3.1\Ex1Alunos.genruntimeconfig.cache
