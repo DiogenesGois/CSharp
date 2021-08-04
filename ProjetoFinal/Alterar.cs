@@ -6,6 +6,7 @@ using System.Windows.Forms;
 namespace ProjetoFinal {
     public partial class Alterar : Form {
         DataTable dt = new DataTable();
+        
         public Alterar() {
             InitializeComponent();
         }
@@ -174,7 +175,7 @@ namespace ProjetoFinal {
 
                     string idmodelo = dgv_alterar.SelectedRows[0].Cells[0].Value.ToString();
 
-                    BaseDeDados.ApagarCarroMarca(idmodelo);
+                    //BaseDeDados.ApagarCarroMarca(idmodelo);
                     BaseDeDados.ApagarCarroModelo(idmodelo);
 
                     dgv_alterar.Rows.Remove(dgv_alterar.CurrentRow);

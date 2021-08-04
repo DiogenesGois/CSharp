@@ -118,7 +118,7 @@ namespace ProjetoFinal {
         }
 
         private void Procurar_Load(object sender, EventArgs e) {
-            string sqlMarcas = "select title from make";
+            string sqlMarcas = "select title from make order by title";
             string sqlModelo = "select title from model";
             dtMarca = BaseDeDados.Consulta(sqlMarcas);
             dtModelo = BaseDeDados.Consulta(sqlModelo);

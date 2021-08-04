@@ -251,8 +251,6 @@ namespace ProjetoFinal {
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         public System.Windows.Forms.DataGridView dgv_procurar;
-        private System.Windows.Forms.ComboBox cb_marca;
-        private System.Windows.Forms.ComboBox cb_modelo;
         private System.Windows.Forms.DataGridViewTextBoxColumn num;
         private System.Windows.Forms.DataGridViewTextBoxColumn codmodelo;
         private System.Windows.Forms.DataGridViewTextBoxColumn modelo;
@@ -260,5 +258,7 @@ namespace ProjetoFinal {
         private System.Windows.Forms.DataGridViewTextBoxColumn marca;
         private System.Windows.Forms.Button btn_limpar;
         private System.Windows.Forms.Button btn_exportar;
+        public System.Windows.Forms.ComboBox cb_marca;
+        public System.Windows.Forms.ComboBox cb_modelo;
     }
 }

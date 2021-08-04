@@ -28,7 +28,7 @@ namespace ProjetoFinal {
 
         private void Marcas_Load(object sender, EventArgs e) {
             DataTable dt = new DataTable();            
-            string sql = "select id as Número, code as Código, title as Marca from make";
+            string sql = "select id ,code ,title from make";
             dt = BaseDeDados.Consulta(sql);
 
             //dgv_marcas.DataSource = BaseDeDados.Consulta(sql);
@@ -42,7 +42,7 @@ namespace ProjetoFinal {
             //dgv_marcas.Columns[1].Width = 200;
             //dgv_marcas.Columns[2].Width = 200;
             dgv_marcas.DefaultCellStyle.BackColor = System.Drawing.Color.FromArgb(27, 27, 30);
-                dgv_marcas.ForeColor = Color.FromArgb(169, 188, 208);
+            dgv_marcas.ForeColor = Color.FromArgb(169, 188, 208);
 
             
         }

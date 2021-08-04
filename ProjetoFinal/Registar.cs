@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Data;
 using System.Windows.Forms;
 
 namespace ProjetoFinal {
     public partial class Registar : Form {
-       
 
+        
 
         public Registar() {
             InitializeComponent();
@@ -57,38 +58,8 @@ namespace ProjetoFinal {
         }
 
         private void btn_inserir_Click(object sender, EventArgs e) {
-            Carro car = new Carro();
 
-            string sqlExistemodelo = "Select * from model where title = '" + car.Modelo1 + "'";
-            string sqlExistemarca = "Select * from make where title = '" + car.Marca1 + "'";
-
-            if (Sessao.logado && Sessao.Codigo >= 2) 
-            {
-                if (BaseDeDados.ExisteCarro(sqlExistemodelo) == false)
-                {
-                    
-                    car.IdMarca = nud_idmarca.Value;
-                    car.CodigoModelo1 = tb_codModeloRegistar.Text;                   
-                    car.Modelo1 = tb_modeloRegistar.Text;
-
-                    BaseDeDados.NovoCarroModelo(car);
-
-                } else if (BaseDeDados.ExisteCarro(sqlExistemarca) == false) {
-                    BaseDeDados.NovoCarroMarca(car);
-                    car.Marca1 = tb_marcaRegistar.Text;
-                    car.CodigoMarca1 = tb_codMarcaRegistar.Text;
-                    car.IdMarca = nud_idmarca.Value;
-
-                } else 
-                {
-                    MessageBox.Show("O carro que está a tentar introduzir já se encontra registado na nossa base de dados");
-                }
-
-            } else
-            {
-                MessageBox.Show("É necessário estar logado em uma conta com códio 2 ou superior", "Não autorizado");
-            }
-
+            inserir();
 
         }
 
@@ -99,5 +70,78 @@ namespace ProjetoFinal {
         private void tb_idmarca_Leave(object sender, EventArgs e) {
             
         }
+
+
+
+        public void inserir() {
+
+            bool inserido = false;
+            Carro car = new Carro();
+            car.IdMarca = nud_idmarca.Value;
+            car.CodigoModelo1 = tb_codModeloRegistar.Text;
+            car.Modelo1 = tb_modeloRegistar.Text;
+
+            car.Marca1 = tb_marcaRegistar.Text;
+            car.CodigoMarca1 = tb_codMarcaRegistar.Text;
+            car.IdMarca = nud_idmarca.Value;
+
+            string sqlExistemodelo = "Select * from model where title = '" + car.Modelo1 + "'";
+            string sqlExistemarca = "Select * from make where title = '" + car.Marca1 + "'";
+
+            if (Sessao.logado && Sessao.Codigo >= 2)
+            {
+                if (BaseDeDados.ExisteCarro(sqlExistemodelo) == false && BaseDeDados.ExisteCarro(sqlExistemarca) == true)
+                {
+                    if ((tb_codModeloRegistar.Text != "" && tb_codModeloRegistar.Text != "Código do Modelo") && (tb_modeloRegistar.Text != "" && tb_modeloRegistar.Text != "Modelo"))
+                    {
+                        string sqlIDMarca = "SELECT TOP 1 id FROM make where title = '" + car.Marca1 + "'";
+                        car.IdMarca = int.Parse(BaseDeDados.Consulta(sqlIDMarca).Rows[0][0].ToString());
+                        BaseDeDados.NovoCarroModelo(car);
+
+                        inserido = true;
+                    } else
+                    {
+                        MessageBox.Show("Apenas será registada a marca");
+                    }
+
+                } else if (BaseDeDados.ExisteCarro(sqlExistemodelo) == false && BaseDeDados.ExisteCarro(sqlExistemarca) == false)
+                {
+                    if ((tb_codModeloRegistar.Text != "" && tb_codModeloRegistar.Text != "Código do Modelo") && (tb_modeloRegistar.Text != "" && tb_modeloRegistar.Text != "Modelo"))
+                    {
+                        BaseDeDados.NovoCarroModelo(car);
+
+                        inserido = true;
+                    } else
+                    {
+                        MessageBox.Show("Apenas será registada a marca");
+                    }
+
+                    if ((tb_codMarcaRegistar.Text != "" && tb_codMarcaRegistar.Text != "Código da Marca") && (tb_marcaRegistar.Text != "" && tb_marcaRegistar.Text != "Marca"))
+                    {
+                        BaseDeDados.NovoCarroMarca(car);
+
+                        inserido = true;
+                    } else
+                    {
+                        MessageBox.Show("Apenas será registada o modelo");
+                    }
+
+                } 
+
+                if (inserido == false)
+                {
+                    MessageBox.Show("O carro que está a tentar introduzir já se encontra registado na nossa base de dados");
+                }
+
+                
+
+            } else
+            {
+                MessageBox.Show("É necessário estar logado em uma conta com códio 2 ou superior", "Não autorizado");
+            }
+
+
+        }
     }
+
 }

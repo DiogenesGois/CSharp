@@ -8,7 +8,7 @@ namespace ProjetoFinal {
     class Sessao {
 
         public static bool logado = false;// indica se está logado
-        public static int Codigo;
+        public static int Codigo;//
        
     }
 }

@@ -170,12 +170,11 @@ namespace ProjetoFinal {
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dgv_modelo;
         private System.Windows.Forms.DataGridViewTextBoxColumn num;
         private System.Windows.Forms.DataGridViewTextBoxColumn idmarca;
         private System.Windows.Forms.DataGridViewTextBoxColumn cod;
         private System.Windows.Forms.DataGridViewTextBoxColumn mod;
         private Bunifu.UI.WinForms.BunifuVScrollBar bunifuVScrollBar1;
+        public System.Windows.Forms.DataGridView dgv_modelo;
     }
 }

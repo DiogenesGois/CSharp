@@ -11,7 +11,8 @@ namespace ProjetoFinal {
     class BaseDeDados {
 
         private static SqlConnection conn;
-        
+       
+
 
         private static SqlConnection LigarBase() {
 
@@ -92,6 +93,7 @@ namespace ProjetoFinal {
                 " title = '" + car.Marca1 + "' where id in (select make_id from model where id = " + car.Id + ")";
             da = new SqlDataAdapter(cmd.CommandText, LigarBase());
             da.Fill(dt);
+            
             LigarBase().Close();
 
             MessageBox.Show("Carro atualizado com sucesso", "Sucesso");
@@ -106,22 +108,24 @@ namespace ProjetoFinal {
                 " title = '" + car.Modelo1 + "' where id = '" + car.Id + "'";
             da = new SqlDataAdapter(cmd.CommandText, LigarBase());
             da.Fill(dt);
+            
             LigarBase().Close();
 
             
         }
 
-        public static DataTable ApagarCarroMarca(string idmodelo) {
-            SqlDataAdapter da = null;
-            DataTable dt = new DataTable();
-            var cmd = LigarBase().CreateCommand();
-            cmd.CommandText = "delete from make where id in (select make_id from model where id = " + idmodelo + ")";
-            da = new SqlDataAdapter(cmd.CommandText, LigarBase());
-            da.Fill(dt);
-            LigarBase().Close();
+        //public static DataTable ApagarCarroMarca(string idmodelo) {
+        //    SqlDataAdapter da = null;
+        //    DataTable dt = new DataTable();
+        //    var cmd = LigarBase().CreateCommand();
+        //    cmd.CommandText = "delete from make where id in (select make_id from model where id = " + idmodelo + ")";
+        //    da = new SqlDataAdapter(cmd.CommandText, LigarBase());
+        //    da.Fill(dt);
 
-            return dt;
-        }
+        //    LigarBase().Close();
+
+        //    return dt;
+        //}
 
         public static DataTable ApagarCarroModelo(string idmodelo) {
 
@@ -131,6 +135,7 @@ namespace ProjetoFinal {
             cmd.CommandText = "delete from model where id = " + idmodelo;
             da = new SqlDataAdapter(cmd.CommandText, LigarBase());
             da.Fill(dt);
+            
             LigarBase().Close();
 
             return dt;
@@ -153,7 +158,7 @@ namespace ProjetoFinal {
         //confirmado ## Adiciona o carros na tabela marcas
         public static void NovoCarroMarca(Carro car) {
 
-            DataTable dt = new DataTable();
+         
             var cmd = LigarBase().CreateCommand();
             cmd.CommandText = "insert into make (id, code, title) values (@id, @code, @title) ";
             cmd.Parameters.AddWithValue("@id", car.IdMarca);
@@ -166,14 +171,13 @@ namespace ProjetoFinal {
         //confirmado ## Adiciona o carro na tabela modelos
         public static void NovoCarroModelo(Carro car) {
 
-            
             var cmd = LigarBase().CreateCommand();
             cmd.CommandText = "insert into model (make_id, code, title) values (@make_id, @code, @title) ";
             cmd.Parameters.AddWithValue("@make_id", car.IdMarca);
             cmd.Parameters.AddWithValue("@code", car.CodigoModelo1);
             cmd.Parameters.AddWithValue("@title", car.Modelo1);
             cmd.ExecuteNonQuery();
-            MessageBox.Show("Carro inserido com sucesso", "Sucesso");
+            MessageBox.Show("Carro inserido com sucesso", "Sucesso");            
             LigarBase().Close();
 
         }
