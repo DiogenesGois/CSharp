@@ -114,28 +114,14 @@ namespace ProjetoFinal {
             
         }
 
-        //public static DataTable ApagarCarroMarca(string idmodelo) {
-        //    SqlDataAdapter da = null;
-        //    DataTable dt = new DataTable();
-        //    var cmd = LigarBase().CreateCommand();
-        //    cmd.CommandText = "delete from make where id in (select make_id from model where id = " + idmodelo + ")";
-        //    da = new SqlDataAdapter(cmd.CommandText, LigarBase());
-        //    da.Fill(dt);
-
-        //    LigarBase().Close();
-
-        //    return dt;
-        //}
-
-        public static DataTable ApagarCarroModelo(string idmodelo) {
-
+        public static DataTable ApagarCarro(string sql) {
             SqlDataAdapter da = null;
             DataTable dt = new DataTable();
             var cmd = LigarBase().CreateCommand();
-            cmd.CommandText = "delete from model where id = " + idmodelo;
+            cmd.CommandText = sql;
             da = new SqlDataAdapter(cmd.CommandText, LigarBase());
             da.Fill(dt);
-            
+
             LigarBase().Close();
 
             return dt;

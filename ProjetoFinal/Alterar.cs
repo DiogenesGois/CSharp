@@ -42,46 +42,8 @@ namespace ProjetoFinal {
         }
 
         private void bt_alterar_Click(object sender, EventArgs e) {
-   
 
-            if (Sessao.logado && Sessao.Codigo >= 2)
-            {
-                if (dgv_alterar.SelectedRows.Count > 0)
-                {
-                    DialogResult res = MessageBox.Show("Tem a certeza que pretende atuallizar a tabela?", "Atualização", MessageBoxButtons.YesNo);
-
-                    if (res == DialogResult.Yes)
-                    {
-                        
-                        dt = BaseDeDados.Consulta();
-
-                        Carro car = new Carro();
-                        car.Id = int.Parse(dgv_alterar.SelectedRows[0].Cells[0].Value.ToString());
-                        car.CodigoMarca1 = tb_codMarca.Text;
-                        car.CodigoModelo1 = tb_codModelo.Text;
-                        car.Marca1 = tb_marca.Text;
-                        car.Modelo1 = tb_modelo.Text;
-
-                        BaseDeDados.AtualizarMarca(car);
-                        BaseDeDados.AtualizarModelo(car);
-
-                        for (int i = 0; i < dt.Rows.Count; i++)
-                        {
-                            dgv_alterar.Rows.Add(dt.Rows[i][0], dt.Rows[i][1], dt.Rows[i][2], dt.Rows[i][3], dt.Rows[i][4]);
-                        }
-
-                        //dgv_alterar.DataSource = BaseDeDados.Consulta();
-                    }
-                }else
-                {
-                    MessageBox.Show("Para alterar um registo é necessário selecionar uma linha da base de dados", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                }
-
-            } else
-            {
-                MessageBox.Show("É necessário estar logado em uma conta com códio 2 ou superior", "Não autorizado");
-            }
-
+            atualizar();            
 
         }
 
@@ -156,27 +118,45 @@ namespace ProjetoFinal {
 
                 dt = BaseDeDados.CarroID(id);
 
-
                 tb_codModelo.Text = dt.Rows[0].ItemArray[1].ToString();
                 tb_modelo.Text = dt.Rows[0][2].ToString();
                 tb_codMarca.Text = dt.Rows[0][3].ToString();
                 tb_marca.Text = dt.Rows[0][4].ToString();
+
+                
 
             } 
         }
 
         private void btn_apagar_Click(object sender, EventArgs e) {
 
+            string idmodelo = dgv_alterar.SelectedRows[0].Cells[0].Value.ToString();
+            string sql = "delete from model where id = " + idmodelo;
+            apagar(sql);
+        }
+
+        private void btn_selecionar_Click(object sender, EventArgs e) {
+
+        }
+
+        private void dgv_alterar_CellContentClick(object sender, DataGridViewCellEventArgs e) {
+
+        }
+
+        private void btn_apagarMarca_Click(object sender, EventArgs e) {
+            string idmodelo = dgv_alterar.SelectedRows[0].Cells[0].Value.ToString();
+            string sql = "delete from make where id in (select make_id from model where id = " + idmodelo + ")";
+            apagar(sql);
+        }
+
+
+        public void apagar(string sql) {
             if (Sessao.logado && Sessao.Codigo >= 2)
             {
                 DialogResult res = MessageBox.Show("Tem a certeza que pretende apagar os dados da tabela?", "Atualização", MessageBoxButtons.YesNo);
                 if (res == DialogResult.Yes)
                 {
-
-                    string idmodelo = dgv_alterar.SelectedRows[0].Cells[0].Value.ToString();
-
-                    //BaseDeDados.ApagarCarroMarca(idmodelo);
-                    BaseDeDados.ApagarCarroModelo(idmodelo);
+                    BaseDeDados.ApagarCarro(sql);
 
                     dgv_alterar.Rows.Remove(dgv_alterar.CurrentRow);
 
@@ -188,11 +168,45 @@ namespace ProjetoFinal {
             }
         }
 
-        private void btn_selecionar_Click(object sender, EventArgs e) {
+        public void atualizar() {
 
-        }
+            if (Sessao.logado && Sessao.Codigo >= 2)
+            {
+                if (dgv_alterar.SelectedRows.Count > 0)
+                {
+                    DialogResult res = MessageBox.Show("Tem a certeza que pretende atuallizar a tabela?", "Atualização", MessageBoxButtons.YesNo);
 
-        private void dgv_alterar_CellContentClick(object sender, DataGridViewCellEventArgs e) {
+                    if (res == DialogResult.Yes)
+                    {
+
+                        dt = BaseDeDados.Consulta();
+
+                        Carro car = new Carro();
+                        car.Id = int.Parse(dgv_alterar.SelectedRows[0].Cells[0].Value.ToString());
+                        car.CodigoMarca1 = tb_codMarca.Text;
+                        car.CodigoModelo1 = tb_codModelo.Text;
+                        car.Marca1 = tb_marca.Text;
+                        car.Modelo1 = tb_modelo.Text;
+
+                        BaseDeDados.AtualizarMarca(car);
+                        BaseDeDados.AtualizarModelo(car);
+
+                        for (int i = 0; i < dt.Rows.Count; i++)
+                        {
+                            dgv_alterar.Rows.Add(dt.Rows[i][0], dt.Rows[i][1], dt.Rows[i][2], dt.Rows[i][3], dt.Rows[i][4]);
+                        }
+
+
+                    }
+                } else
+                {
+                    MessageBox.Show("Para alterar um registo é necessário selecionar uma linha da base de dados", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                }
+
+            } else
+            {
+                MessageBox.Show("É necessário estar logado em uma conta com códio 2 ou superior", "Não autorizado");
+            }
 
         }
     }

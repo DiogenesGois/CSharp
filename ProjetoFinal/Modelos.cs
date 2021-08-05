@@ -37,11 +37,7 @@ namespace ProjetoFinal {
                 dgv_modelo.Rows.Add(dt.Rows[i][0], dt.Rows[i][1], dt.Rows[i][2], dt.Rows[i][3]);
             }
 
-            //dgv_modelo.DataSource = BaseDeDados.Consulta(sql);
-            //dgv_modelo.Columns[0].Width = 100;
-            //dgv_modelo.Columns[1].Width = 100;
-            //dgv_modelo.Columns[2].Width = 200;
-            //dgv_modelo.Columns[3].Width = 200;
+            
             dgv_modelo.DefaultCellStyle.BackColor = System.Drawing.Color.FromArgb(27, 27, 30);
             dgv_modelo.ForeColor = Color.FromArgb(169, 188, 208);
 

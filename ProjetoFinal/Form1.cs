@@ -45,7 +45,7 @@ namespace ProjetoFinal {
             if (senderBtn != null)
             {
                 DesativarBotao();
-                //button
+                //botão
                 currentBtn = (IconButton)senderBtn;
                 currentBtn.BackColor = Color.FromArgb(159, 164, 169);
                 currentBtn.ForeColor = color;
@@ -54,7 +54,7 @@ namespace ProjetoFinal {
                 currentBtn.TextImageRelation = TextImageRelation.TextBeforeImage;
                 currentBtn.ImageAlign = ContentAlignment.MiddleRight;
 
-                //left border button
+                //lista esquerda botão
                 leftBorderBtn.BackColor = color;
                 leftBorderBtn.Location = new Point(0, currentBtn.Location.Y);
                 leftBorderBtn.Visible = true;
@@ -81,13 +81,13 @@ namespace ProjetoFinal {
 
 
         public void OpenChildForm(Form childForm) {
-            //open only form
+            //abrir form filho
             if (currentChildForm != null)
             {
                 currentChildForm.Close();
             }
             currentChildForm = childForm;
-            //End
+            //fim
             childForm.TopLevel = false;
             childForm.FormBorderStyle = FormBorderStyle.None;
             childForm.Dock = DockStyle.Fill;
@@ -161,7 +161,7 @@ namespace ProjetoFinal {
             leftBorderBtn.Visible = false;
             iconCurrentChildForm.IconChar = IconChar.Home;
             iconCurrentChildForm.IconColor = Color.FromArgb(202, 60, 37); ;
-            //lblTitleChildForm.Text = "Home";
+            
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]

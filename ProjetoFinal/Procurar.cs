@@ -10,6 +10,10 @@ namespace ProjetoFinal {
     public partial class Procurar : Form {
         DataTable dtModelo = new DataTable();
         DataTable dtMarca = new DataTable();
+        private object after;
+
+        public object RepeatOnNewPage { get; private set; }
+        public object KeepWithGroup { get; private set; }
 
         public Procurar() {
             InitializeComponent();
@@ -43,7 +47,7 @@ namespace ProjetoFinal {
                     DataTable dt = new DataTable();
                     string sql = "select mo.make_id as 'Número da marca', mo.id as 'Número do Modelo', mo.code as 'Código do Modelo', mo.title as Modelo, ma.code as 'Código da Marca', ma.title as Marca from make as ma inner join model as mo on mo.make_id = ma.id where mo.make_id in (select id from make where title = '" + marca + "')";
                     dt = BaseDeDados.Consulta(sql);
-                    //dgv_procurar.DataSource = BaseDeDados.Consulta(sql);
+
 
                     for (int i = 0; i < dt.Rows.Count; i++)
                     {
@@ -170,16 +174,19 @@ namespace ProjetoFinal {
             string marca = cb_marca.Text;
             string modelo = cb_modelo.Text;
             string dados = "";
-            string ficheiro = @"C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\ProjetoFinal\pdfs\carros.pdf";//caminho ficheiro
+            string ficheiro = @"C:\Users\dioge\CET60\0Programacao de computadores - orientada a objetos - Feito\Projetos\ProjetoFinal\pdfs\carro.pdf";//caminho ficheiro
             FileStream filePdf = new FileStream(ficheiro, FileMode.Create);
             Document doc = new Document(PageSize.A4);
             PdfWriter.GetInstance(doc, filePdf);
 
 
-            iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance(@"C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Banco\Resources\logo_transparent.png");
+
+            iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance(@"C:\Users\dioge\CET60\0Programacao de computadores - orientada a objetos - Feito\Projetos\ProjetoFinal\Assets\logo_transparent.png");
             logo.ScaleToFit(140f, 120f);
             logo.Alignment = Element.ALIGN_CENTER;
-            logo.SetAbsolutePosition(240f, 730f); //x,-y
+            logo.SetAbsolutePosition(240f, 730f); //x,-y           
+
+
 
 
             Paragraph paragrafo1 = new Paragraph(dados, new iTextSharp.text.Font(iTextSharp.text.Font.NORMAL, 20, (int)System.Drawing.FontStyle.Bold));
@@ -192,8 +199,6 @@ namespace ProjetoFinal {
 
             PdfPTable tabela = new PdfPTable(5);//5 colunas
             tabela.DefaultCell.BackgroundColor = BaseColor.LIGHT_GRAY;
-            
-
 
 
             tabela.AddCell("Número");
@@ -207,13 +212,13 @@ namespace ProjetoFinal {
                 sql = "select mo.make_id as 'Número da marca', mo.id as 'Número do Modelo', mo.code as 'Código do Modelo', mo.title as Modelo, ma.code as 'Código da Marca', ma.title as Marca from make as ma inner join model as mo on mo.make_id = ma.id where mo.make_id in (select id from make where title = '" + marca + "')";
 
 
-            } else 
+            } else
             {
                 sql = "select mo.id as Número, mo.code as 'Código do Modelo', mo.title as Modelo, ma.code as 'Código da Marca', ma.title as Marca from model as mo inner join make as ma on mo.make_id = ma.id where mo.title = '" + modelo + "'";
 
             }
 
-            
+
             DataTable dtCarros = BaseDeDados.Consulta(sql);
             for (int i = 0; i < dtCarros.Rows.Count; i++)
             {
@@ -224,17 +229,23 @@ namespace ProjetoFinal {
                 tabela.AddCell(dtCarros.Rows[i][4].ToString());
             }
 
+
+
             DialogResult res = MessageBox.Show("Deseja abrir o relatório de procura?", "Relatório de procura", MessageBoxButtons.YesNo);
             if (res == DialogResult.Yes)
             {
-                System.Diagnostics.Process.Start(@"C:\Users\dioge\CET60\Programacao de computadores - orientada a objetos\Projetos\ProjetoFinal\pdfs\carros.pdf");
+                System.Diagnostics.Process.Start(@"C:\Users\dioge\CET60\0Programacao de computadores - orientada a objetos - Feito\Projetos\ProjetoFinal\pdfs\carro.pdf");
             }
+
 
             doc.Open();
             doc.Add(logo);
             doc.Add(paragrafo1);
-            doc.Add(tabela);
+            doc.Add(tabela);            
             doc.Close();
+
         }
+
+
     }
 }

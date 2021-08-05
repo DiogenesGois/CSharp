@@ -40,12 +40,13 @@ namespace ProjetoFinal {
             this.tb_marca = new System.Windows.Forms.TextBox();
             this.tb_codModelo = new System.Windows.Forms.TextBox();
             this.tb_modelo = new System.Windows.Forms.TextBox();
-            this.btn_apagar = new System.Windows.Forms.Button();
+            this.btn_apagarModelo = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.bunifuVScrollBar1 = new Bunifu.UI.WinForms.BunifuVScrollBar();
+            this.btn_apagarMarca = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_alterar)).BeginInit();
             this.SuspendLayout();
             // 
@@ -213,21 +214,21 @@ namespace ProjetoFinal {
             this.tb_modelo.Enter += new System.EventHandler(this.tb_modelo_Enter);
             this.tb_modelo.Leave += new System.EventHandler(this.tb_modelo_Leave);
             // 
-            // btn_apagar
+            // btn_apagarModelo
             // 
-            this.btn_apagar.FlatAppearance.BorderSize = 0;
-            this.btn_apagar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(188)))), ((int)(((byte)(65)))));
-            this.btn_apagar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(202)))), ((int)(((byte)(60)))), ((int)(((byte)(37)))));
-            this.btn_apagar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_apagar.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_apagar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(188)))), ((int)(((byte)(208)))));
-            this.btn_apagar.Location = new System.Drawing.Point(554, 100);
-            this.btn_apagar.Name = "btn_apagar";
-            this.btn_apagar.Size = new System.Drawing.Size(85, 35);
-            this.btn_apagar.TabIndex = 11;
-            this.btn_apagar.Text = "Apagar";
-            this.btn_apagar.UseVisualStyleBackColor = true;
-            this.btn_apagar.Click += new System.EventHandler(this.btn_apagar_Click);
+            this.btn_apagarModelo.FlatAppearance.BorderSize = 0;
+            this.btn_apagarModelo.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(188)))), ((int)(((byte)(65)))));
+            this.btn_apagarModelo.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(202)))), ((int)(((byte)(60)))), ((int)(((byte)(37)))));
+            this.btn_apagarModelo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_apagarModelo.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_apagarModelo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(188)))), ((int)(((byte)(208)))));
+            this.btn_apagarModelo.Location = new System.Drawing.Point(554, 107);
+            this.btn_apagarModelo.Name = "btn_apagarModelo";
+            this.btn_apagarModelo.Size = new System.Drawing.Size(128, 35);
+            this.btn_apagarModelo.TabIndex = 11;
+            this.btn_apagarModelo.Text = "Apagar Modelo";
+            this.btn_apagarModelo.UseVisualStyleBackColor = true;
+            this.btn_apagarModelo.Click += new System.EventHandler(this.btn_apagar_Click);
             // 
             // label1
             // 
@@ -303,18 +304,35 @@ namespace ProjetoFinal {
             this.bunifuVScrollBar1.ThumbStyle = Bunifu.UI.WinForms.BunifuVScrollBar.ThumbStyles.Inset;
             this.bunifuVScrollBar1.Value = 0;
             // 
+            // btn_apagarMarca
+            // 
+            this.btn_apagarMarca.FlatAppearance.BorderSize = 0;
+            this.btn_apagarMarca.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(188)))), ((int)(((byte)(65)))));
+            this.btn_apagarMarca.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(202)))), ((int)(((byte)(60)))), ((int)(((byte)(37)))));
+            this.btn_apagarMarca.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_apagarMarca.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_apagarMarca.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(188)))), ((int)(((byte)(208)))));
+            this.btn_apagarMarca.Location = new System.Drawing.Point(554, 66);
+            this.btn_apagarMarca.Name = "btn_apagarMarca";
+            this.btn_apagarMarca.Size = new System.Drawing.Size(128, 35);
+            this.btn_apagarMarca.TabIndex = 17;
+            this.btn_apagarMarca.Text = "Apagar Marca";
+            this.btn_apagarMarca.UseVisualStyleBackColor = true;
+            this.btn_apagarMarca.Click += new System.EventHandler(this.btn_apagarMarca_Click);
+            // 
             // Alterar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(27)))), ((int)(((byte)(30)))));
             this.ClientSize = new System.Drawing.Size(946, 594);
+            this.Controls.Add(this.btn_apagarMarca);
             this.Controls.Add(this.bunifuVScrollBar1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.btn_apagar);
+            this.Controls.Add(this.btn_apagarModelo);
             this.Controls.Add(this.tb_modelo);
             this.Controls.Add(this.tb_codModelo);
             this.Controls.Add(this.tb_marca);
@@ -337,7 +355,7 @@ namespace ProjetoFinal {
         private System.Windows.Forms.TextBox tb_marca;
         private System.Windows.Forms.TextBox tb_codModelo;
         private System.Windows.Forms.TextBox tb_modelo;
-        public System.Windows.Forms.Button btn_apagar;
+        public System.Windows.Forms.Button btn_apagarModelo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -349,5 +367,6 @@ namespace ProjetoFinal {
         private System.Windows.Forms.DataGridViewTextBoxColumn marca;
         private Bunifu.UI.WinForms.BunifuVScrollBar bunifuVScrollBar1;
         public System.Windows.Forms.DataGridView dgv_alterar;
+        public System.Windows.Forms.Button btn_apagarMarca;
     }
 }
